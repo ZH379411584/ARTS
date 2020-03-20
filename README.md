@@ -1,6 +1,7 @@
-# ARTS
- Algorithm、Review、Tip、Share 简称ARTS
 
+# ARTS
+ ARTS 就是Algorithm、Review、Tip、Share 简称   
+ 其它细节可以查看：[极客时间《左耳听风》发起的ARTS挑战怎么参加？](https://www.zhihu.com/question/301150832)
 
 ## Algorithm
 每周至少做一个 leetcode 的算法题
